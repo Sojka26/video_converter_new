@@ -27,6 +27,6 @@ g++ -std=c++17 -o video_converter.exe video_converter.cpp
 1. Spusť `video_converter.exe`
 2. Zadej cestu ke složce, např.:
    ```
-   E:\Seriály\Chalupáři
+   E:\Seriály\Daredevil
    ```
 3. Sleduj průběh převodu a zprávu o odstranění původního `.avi`
